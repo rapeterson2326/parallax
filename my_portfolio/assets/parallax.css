@@ -33,23 +33,27 @@ body, html{
 }
 .pimg2{
     min-height: 400px;
-    background-image: url(../images_/img_2460.jpg);    
+    background-image: url(../images_/img_2456.jpg);         
 }
 .pimg3{
     min-height: 400px;
-    background-image: url(../images_/img_2461.jpg);        
-
+    background-image: url(../images_/img_2458.jpg);    
 }
+
 .pimg4{
     min-height: 400px;
-    background-image: url(../images_/img_2462.jpg);     
-
+    background-image: url(../images_/img_2453.jpg);          
 }
 
 .pimg5{
-    min-height: 100%;
-    background-image: url(../images_/img_2458.jpg);      
+    min-height: 400px;
+    background-image: url(../images_/img_3.jpg);         
 
+}
+
+.pimg6{
+    min-height: 100%;
+    background-image: url(../images_/img_1.jpg);   
 }
 
 
@@ -93,7 +97,10 @@ h2{
     letter-spacing: 8px;
     text-transform:uppercase; 
 }
-
+.border{
+    color: white;
+    
+}
 .ptext .borber{
     background-color:#111;
     color:#fff;
